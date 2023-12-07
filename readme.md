@@ -32,7 +32,7 @@
       <a href="https://github.com/JenSeop"><img src="https://github.com/JenSeop/Hackathon-MCGP-URL-Scanner-IUAP/assets/95238604/6616449d-f9dc-4473-9d55-b2703606758b"/></a>
     </td>
     <td>
-      <a href="https://github.com/Choitim"><img src="https://github.com/JenSeop/Hackathon-MCGP-URL-Scanner-IUAP/assets/95238604/daba28c5-94ad-4e0b-9e07-b7c4539bbac6"/></a>
+      <a href="https://github.com/Choitim"><img src="https://github.com/Choitim/KISIA_2023_Hackathon_MCPG/assets/75467180/0ef0da9d-6b9c-4914-8a49-ad44478cca4f" width="280"/></a>
     </td>
   </tr>
   <tr>
